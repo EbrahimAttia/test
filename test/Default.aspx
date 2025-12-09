@@ -12,6 +12,15 @@
     <div class="alert alert-info">
         <p><strong>Result:</strong></p>
         <asp:Label ID="lblResult" runat="server" Text="Waiting to connect..."></asp:Label>
+        <asp:Label ID="Label1" runat="server" Text="Waiting to connect..."></asp:Label>
+
+        <asp:Label ID="Label2" runat="server" Text="Waiting to connect..."></asp:Label>
+
+        <asp:Label ID="Label3" runat="server" Text="Waiting to connect..."></asp:Label>
+
+        <asp:Label ID="Label4" runat="server" Text="Waiting to connect..."></asp:Label>
+
+
     </div>
 
     <div style="margin-top:20px">
